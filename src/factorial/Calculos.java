@@ -7,16 +7,12 @@ public class Calculos {
     
 public void condicion(){
 
-   if (j == 0)
-f = 1;
-   else
-   {
-f = 1;
+//Elimino la condicion ya que no es necesaria para que funcione correctamente el programa
 for (i = j; i >= 1; i--)
 {
     f = f * i;
 }
 System.out.println(f); 
-   }  
+    
     }
 }
