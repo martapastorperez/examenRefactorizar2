@@ -7,16 +7,16 @@ public class Factorial {
 
     public static void main(String[] args) {
 
-
-    int j;
-    int f;
+    //Poner las variables del mismo tipo juntas
+    int j,f,i;
+    
 
   
    j = 8;    
    
 
     
-   int i;
+   
    if (j == 0)
 f = 1;
    else
