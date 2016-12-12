@@ -9,28 +9,9 @@ public class Factorial {
 
     //Poner las variables del mismo tipo juntas
     int j,f,i;
-    
+ //Muevo todo a una clase y le doy valores a las variables para usar la main para mostrar
+    //Las variables tenian los valores en el programa asique se los asigno
 
-  
-   j = 8;    
-   
-
-    
-   
-   if (j == 0)
-f = 1;
-   else
-   {
-f = 1;
-for (i = j; i >= 1; i--)
-{
-    f = f * i;
-}
-   }    
-  
- 
-
-System.out.println(f); 
 
 
     }
